@@ -1,2 +1,2 @@
 # Python_DataAnalytics_21
-#Python and Data Analytics Bootcamp for 7 days.
+# Python and Data Analytics Bootcamp 7 days .
